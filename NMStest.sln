@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NMStest", "NMStest\NMStest.csproj", "{AF05CA53-F12F-46AB-A0B0-C62915566D61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF05CA53-F12F-46AB-A0B0-C62915566D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF05CA53-F12F-46AB-A0B0-C62915566D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF05CA53-F12F-46AB-A0B0-C62915566D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF05CA53-F12F-46AB-A0B0-C62915566D61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B8CA388-B572-4E90-9A9D-C9427D605F36}
+	EndGlobalSection
+EndGlobal
